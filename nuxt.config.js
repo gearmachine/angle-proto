@@ -63,6 +63,6 @@ export default {
   },
 
   router: {
-    base: '/angle-proto'
+    base: '/angle-proto/'
   }
 }
